@@ -153,9 +153,13 @@ This repository demonstrates the ability to:
 This project showcases:
 
 ✅ Strong understanding of machine learning fundamentals
+
 ✅ Practical implementation of algorithms
+
 ✅ Data-driven problem solving
+
 ✅ Model performance optimization
+
 ✅ Applied analytical thinking
 
 ---
