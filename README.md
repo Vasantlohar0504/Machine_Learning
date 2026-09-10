@@ -112,11 +112,11 @@ An end-to-end machine learning project designed to predict loan approval outcome
 
 ### Key Contributions
 
-✔ Performed data cleaning and preprocessing
-✔ Conducted feature engineering and selection
-✔ Implemented multiple classification models
-✔ Evaluated model performance using standard metrics
-✔ Selected the optimal model based on accuracy and generalization capability
+* Performed data cleaning and preprocessing
+* Conducted feature engineering and selection
+* Implemented multiple classification models
+* Evaluated model performance using standard metrics
+* Selected the optimal model based on accuracy and generalization capability
 
 ### Project Outcome
 
