@@ -1,6 +1,6 @@
 # 🧠 Machine Learning Repository
 
-## 🚀 Overview
+##  Overview
 
 This repository is a comprehensive collection of machine learning concepts, algorithms, and practical implementations developed using **Python** and **Jupyter Notebooks**.
 
@@ -17,9 +17,9 @@ The repository reflects practical implementation across **supervised learning, u
 
 ---
 
-## 🧠 Key Topics Covered
+##  Key Topics Covered
 
-### 📌 Exploratory Data Analysis (EDA)
+###  Exploratory Data Analysis (EDA)
 
 * Data inspection and visualization
 * Pattern discovery
@@ -27,7 +27,7 @@ The repository reflects practical implementation across **supervised learning, u
 
 ---
 
-### 📌 Data Preprocessing & Normalization
+###  Data Preprocessing & Normalization
 
 * Data cleaning
 * Feature scaling
@@ -36,7 +36,7 @@ The repository reflects practical implementation across **supervised learning, u
 
 ---
 
-### 📌 Supervised Learning Algorithms
+###  Supervised Learning Algorithms
 
 * Simple Linear Regression
 * Logistic Regression
@@ -48,7 +48,7 @@ The repository reflects practical implementation across **supervised learning, u
 
 ---
 
-### 📌 Unsupervised Learning
+###  Unsupervised Learning
 
 * K-Means Clustering
 * Hierarchical Clustering
@@ -57,7 +57,7 @@ The repository reflects practical implementation across **supervised learning, u
 
 ---
 
-### 📌 Model Evaluation & Optimization
+###  Model Evaluation & Optimization
 
 * Cross Validation
 * Hyperparameter Tuning
@@ -67,25 +67,25 @@ The repository reflects practical implementation across **supervised learning, u
 
 ---
 
-### 📌 Reinforcement Learning
+###  Reinforcement Learning
 
 * Q-Learning
 * Thompson Sampling
 
 ---
 
-### 📌 Deep Learning Fundamentals
+###  Deep Learning Fundamentals
 
 * Introduction to Keras
 * Neural Network Basics
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### **Programming Language**
 
-* Python 🐍
+* Python 
 
 ### **Libraries & Frameworks**
 
@@ -104,9 +104,9 @@ The repository reflects practical implementation across **supervised learning, u
 ---
 
 
-## 📌 Featured Project
+##  Featured Project
 
-# 🔹 Loan Prediction System
+#  Loan Prediction System
 
 An end-to-end machine learning project designed to predict loan approval outcomes using classification algorithms.
 
@@ -124,7 +124,7 @@ Developed a predictive system capable of identifying loan approval patterns with
 
 ---
 
-## 📈 Key Highlights
+##  Key Highlights
 
 * Implemented **20+ machine learning algorithms** using Python and Scikit-learn
 * Applied model evaluation techniques including cross-validation and performance metrics
@@ -134,7 +134,7 @@ Developed a predictive system capable of identifying loan approval patterns with
 
 ---
 
-## 🔍 Learning Outcomes
+##  Learning Outcomes
 
 This repository demonstrates the ability to:
 
@@ -146,23 +146,23 @@ This repository demonstrates the ability to:
 
 ---
 
-## 📊 What This Repository Demonstrates
+##  What This Repository Demonstrates
 
 This project showcases:
 
-✅ Strong understanding of machine learning fundamentals
+ Strong understanding of machine learning fundamentals
 
-✅ Practical implementation of algorithms
+ Practical implementation of algorithms
 
-✅ Data-driven problem solving
+ Data-driven problem solving
 
-✅ Model performance optimization
+ Model performance optimization
 
-✅ Applied analytical thinking
+ Applied analytical thinking
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 ## **Vasant Lohar**
 
